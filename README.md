@@ -1,3 +1,6 @@
+_Tu sais qui c'est Booba, comme ça qu'on m'appelle
+B.2.O.B.A c'est comme ça mon gars qu'ça s'épèle_
+
 Contact: `b2oba[at]dnmx.org` ([Public key](./key.asc))
 
 
